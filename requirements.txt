@@ -1,0 +1,2 @@
+# Requires: impossible-entropy
+# (Not available on PyPI)
